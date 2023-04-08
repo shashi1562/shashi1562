@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shashi1562
+- 👋 Hi, I’m @shashi-lokini
 - 👀 I’m interested in Photography and Affiliate Marketing
-- 🌱 I’m currently learning full stack
-- 📫 How to reach me privateacc156@gmail.com
+- 🌱 I’m currently learning Back-End Developement
+- 📫 How to reach me shashi.lokini@gmail.com
 
 <!---
 shashi1562/shashi1562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
