@@ -3,7 +3,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 About me
 
   💼 FrontEnd Engineer at SEET.
+  
   ❤️ I love writing JavaScript, and building fun experiments
+  
   📫 How to reach me shashi.lokini@gmail.com
   
 Languages and Tools
