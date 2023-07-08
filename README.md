@@ -2,7 +2,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 About me
 
-       👋 hi there, I'm Shashi,
+       👋 Hi there, I'm Shashi,
        
        💼 FrontEnd Engineer at SEET.
   
